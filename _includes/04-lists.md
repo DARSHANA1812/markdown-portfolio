@@ -1,0 +1,3 @@
+I like animals like
+* 🐱
+* 🐶
